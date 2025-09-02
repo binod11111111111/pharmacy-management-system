@@ -37,4 +37,3 @@ pharmacy-management/
 ├── index.php # Homepage
 └── README.md # Documentation
 
-## 📂 Project Structure
